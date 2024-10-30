@@ -5,12 +5,12 @@
 img{
   border-radius: 16px;
 }
-#page{
+#page {
   width: 800px;
   padding: 24px;
   background-color: #F0E8C2;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
   box-sizing: border-box;
 }
 body{
@@ -48,4 +48,12 @@ h1, h2{
 }
 ul {
   margin-left: 24px;
+}
+footer {
+  color: #F0E8C2;
+  text-align: center;
+  margin-bottom: 48px;
+}
+footer img {
+vertical-align: middle;
 }
