@@ -13,5 +13,20 @@ body{
   background-image: url(assets/pg.jpg);
   background-size: cover;
 }
-
-
+.alice-regular {
+  font-family: "Alice", serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 150%;
+  color: #573A37;
+}
+h1{
+  line-height: 140%;
+  font-size: 40px;
+}
+h2{
+  font-size: 24px;
+}
+h1, h2{
+  color: #291b1a;
+}
